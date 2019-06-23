@@ -19,3 +19,4 @@ End Sub
 
 
 
+    #Note: This VBA code is meant to have each type of ticker symbol in column J and that the active worksheet be selected when running the code.
